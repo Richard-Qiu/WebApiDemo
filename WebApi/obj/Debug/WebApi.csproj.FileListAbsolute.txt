@@ -1,0 +1,11 @@
+D:\面试\WebApi\WebApi\bin\Debug\WebApi.dll
+D:\面试\WebApi\WebApi\bin\Debug\WebApi.pdb
+D:\面试\WebApi\WebApi\bin\Debug\Common.dll
+D:\面试\WebApi\WebApi\bin\Debug\System.Web.Http.dll
+D:\面试\WebApi\WebApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\面试\WebApi\WebApi\bin\Debug\Common.pdb
+D:\面试\WebApi\WebApi\bin\Debug\System.Web.Http.xml
+D:\面试\WebApi\WebApi\bin\Debug\System.Net.Http.Formatting.xml
+D:\面试\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\面试\WebApi\WebApi\obj\Debug\WebApi.dll
+D:\面试\WebApi\WebApi\obj\Debug\WebApi.pdb

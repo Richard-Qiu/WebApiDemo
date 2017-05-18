@@ -1,0 +1,5 @@
+D:\面试\WebApi\Common\bin\Debug\Common.dll
+D:\面试\WebApi\Common\bin\Debug\Common.pdb
+D:\面试\WebApi\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\面试\WebApi\Common\obj\Debug\Common.dll
+D:\面试\WebApi\Common\obj\Debug\Common.pdb
